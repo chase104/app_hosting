@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>My app!</h1>
+      <h1>My super website</h1>
      
     </>
   )
